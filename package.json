@@ -1,0 +1,26 @@
+{
+  "name": "sendmail",
+  "version": "1.0.0",
+  "description": "send an email",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phamdaiminhquan/sendemail.git"
+  },
+  "keywords": [
+    "send",
+    "email",
+    "send",
+    "an",
+    "email"
+  ],
+  "author": "Pham Dai Minh Quan <pdmquan@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/phamdaiminhquan/sendemail/issues"
+  },
+  "homepage": "https://github.com/phamdaiminhquan/sendemail#readme"
+}
